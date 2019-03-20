@@ -1,4 +1,3 @@
-![](https://github.com/qq1415551519/phpcms/blob/master/statics/login/images/demo1001.png) 
 # phpcms
 介绍
 该仓库是在phpcms v9.6.3的镜像基础上进行维护的。
@@ -22,4 +21,5 @@
 9.【中危】修复利用伪造模板名称生成任意脚本的漏洞<br>
 10.修复利用构造referer的xss攻击<br>
 ......<br><br>
-【这是已经安装好的phpcms模板，数据库存放位置：/install/xxx.sql】
+【这是已经安装好的phpcms模板，数据库存放位置：/install/xxx.sql】<br>
+![](https://github.com/qq1415551519/phpcms/blob/master/statics/login/images/demo1001.png) 

@@ -1,3 +1,4 @@
+![](https://github.com/qq1415551519/phpcms/blob/master/statics/login/images/demo1001.png) 
 # phpcms
 介绍
 该仓库是在phpcms v9.6.3的镜像基础上进行维护的。

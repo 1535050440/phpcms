@@ -1,0 +1,26 @@
+/* CSS Document */
+@charset 'gbk';
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div{margin:0;padding:0;border:0;}
+body{background:#fff;color:#333;font-size:12px; margin-top:5px;font-family:"SimSun","宋体","Arial Narrow"; line-height:25px;}
+
+ul,ol{list-style-type:none;}
+select,input,img,select{vertical-align:middle;}
+
+a{text-decoration:none; color:#666;}
+.clear{ clear:both;}
+.header{ width:980px; margin:0px auto;}
+.header .logo{ float:left; margin-bottom:10px;}
+.header .phone{ float:right;}
+.content{ background:url(../images/dot.jpg) repeat-x; height:446px; clear:both; padding-top:10px;}
+.content .content_1{ background:url(../images/banner.jpg) no-repeat; width:980px; height:442px; margin:0px auto;}
+.content .content_1 .content_kk{ background:url(../images/border.png) no-repeat; width:305px; height:334px; float:right; margin-top:25px; padding:30px 0px 0px 30px;}
+.content .content_1 .content_kk h3{ font-size:16px; font-family:"微软雅黑";}
+.content .content_1 .content_kk ul li{ margin-top:18px; line-height:30px;}
+.content .content_1 .content_kk ul li input{ border:1px solid #005095;color:#666;height:30px;line-height:30px;padding:0px 5px;}
+.footer{ width:980px; margin:0px auto;}
+.footer .l{ height:130px; width:705px; float:left;}
+.footer .r{ width:270px; height:130px; float:right; margin-right:5px; display:inline;}
+.footer .r h3{ color:#666; font-family:"微软雅黑"; font-size:16px; margin-bottom:5px;}
+.footer .r ul li a{ color:#F00;}
+.footer .r ul li a:hover{ color:#b60101;}
+.footer .r ul li p{ float:right; color:#999;}

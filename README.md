@@ -24,3 +24,4 @@
 ......<br><br>
 【这是已经安装好的phpcms模板，数据库存放位置：/install/xxx.sql】<br>
 ![](https://github.com/qq1415551519/phpcms/blob/master/statics/login/images/demo1001.png) 
+![](https://github.com/qq1415551519/phpcms/blob/master/statics/login/images/login.png) 

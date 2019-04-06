@@ -23,12 +23,12 @@
 10.修复利用构造referer的xss攻击<br>
 ......<br><br>
 【这是已经安装好的phpcms模板，数据库存放位置：/install/xxx.sql】<br>
-【最新后台登陆界面】
+<br>【最新后台登陆界面】<br>
 ![](https://github.com/qq1415551519/phpcms/blob/master/statics/admin_login/images/phpcms_admin_login_1.jpg) 
-【后台界面】
+<br>【后台界面】<br>
 ![](https://github.com/qq1415551519/phpcms/blob/master/statics/login/images/demo1001.png) 
+<br>
 
-
-
-【已废除】
+<br>
+【已废除】<br>
 ![](https://github.com/qq1415551519/phpcms/blob/master/statics/login/images/login.png) 
